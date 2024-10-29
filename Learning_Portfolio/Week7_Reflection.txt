@@ -1,0 +1,7 @@
+Learning:
+
+This week's topic was language models, namely large language models (LLMs), and their application in natural language processing. I became aware of the advancements in LLMs, like GPT and BERT, that employ deep learning to analyze, comprehend, and produce language at a level that is comparable to human comprehension. We talked about different LLM-based tools and investigated how prompting and fine-tuning might be used to customize these models for certain tasks. I learned that by exposing a pre-trained LLM to domain-specific data, fine-tuning enhances its accuracy and relevance in specialized fields, enabling us to apply it to specialized applications. It was particularly interesting to see how LLMs are changing the field of NLP by enabling tasks that were previously difficult for traditional models, such as summarization, translation, and conversational AI.
+
+Challenges faced and how I overcame them:
+
+It was difficult to learn how to create successful prompts since it requires not only an awareness of the model's advantages and disadvantages but also an inventive approach to the structure of orders or queries. For prompting, I practiced writing various prompts and studied examples of successful prompts in online communities, which helped me see how slight adjustments could improve the model’s output. 

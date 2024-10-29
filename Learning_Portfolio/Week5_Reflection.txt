@@ -1,0 +1,3 @@
+Learning:
+
+This week gave me a great chance to solidify my grasp of the subjects we have already discussed, such as text categorization, sentiment analysis, summarization, and the fundamentals of natural language processing. To make sure I understood each topic well, I went over important ideas again and went over my notes and code implementations from earlier weeks. I also made connections with my classmates and organized a group for Assignment 2, which calls for using these strategies cooperatively.

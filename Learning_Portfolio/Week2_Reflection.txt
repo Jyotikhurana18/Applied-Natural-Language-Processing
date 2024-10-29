@@ -1,0 +1,7 @@
+Learning:
+
+This week, I studied several advanced NLP topics, such as regular expressions, topic modeling, clustering, and text analysis visualization approaches. I learned how to use regular expressions to effectively search for patterns in text data, which is crucial for preprocessing and data cleaning. Additionally, I explored various visualization techniques to represent text data, helping to improve the sense-making process by offering visual insights into the patterns and structures within the data. I learned about using methods like Latent Dirichlet Allocation (LDA) in topic modeling, which may be used to find hidden topics in big-text corpora. 
+
+Challenges faced and how I overcame them:
+
+It was difficult to comprehend the theoretical underpinnings of topic modeling and clustering, particularly when it came to effectively interpreting the findings. I used 3 exercises based on analysis, topic modeling, and Clustering and internet resources to address the difficulties with regular expressions, which allowed me to gradually improve my abilities.

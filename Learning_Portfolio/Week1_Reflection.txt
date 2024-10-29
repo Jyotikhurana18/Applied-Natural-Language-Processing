@@ -1,0 +1,10 @@
+Learning:
+
+Beginning with an overview of the topic and the fundamentals of natural language, we studied the fundamental ideas of Natural Language Processing (NLP) in Week 1. I gained knowledge of the building blocks of natural language processing (NLP), including different stages of text processing including lemmatization, tokenization, and stemming. Furthermore, Python was used to expose us to text analysis, which gave us a useful foundation for working with and evaluating text data. It was fascinating to see how we could start breaking down language into analyzable components using code, and it gave me an initial understanding of the complexities involved in processing human language.
+
+Challenges faced and how I overcame them:
+
+A primary challenge was to pick up new terms and ideas, including tokenization and stemming, and then put them into practice in Python. At first, I had trouble comprehending how each stage of text processing fits into the larger NLP workflow. I overcame this challenge by dedicating more time to reading the introductory slides and practicing the tutorial notebooks, which helped me better understand these fundamental procedures.
+NLP basics part1: Spring 2024 _ANLP Session 1_NLP_Basics - Part 1 - Colab
+NLP basics part2: Spring 2024 ANLP Session 1_NLP_Basics - Part 2 - Colab
+Homework: Spring 2024_ANLP Session 1_HW.ipynb - Colab

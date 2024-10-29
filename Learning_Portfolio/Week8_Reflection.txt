@@ -1,0 +1,6 @@
+Learning:
+
+This week's topics included creating applications using large language models (LLMs), gaining access to models through APIs, and assessing and implementing these models. A guest talk that offered useful insights about LLM uses in the business, including actual instances of API integrations and the deployment difficulties frequently encountered in production settings, was a major highlight. The significance of evaluation was also underlined throughout the lecture, which covered metrics such as accuracy, perplexity, and response quality and how to use them to preserve model reliability. 
+
+The guest lecture underscored how accessible LLM technology has become through APIs, making it relatively straightforward to add advanced language capabilities to applications.
+

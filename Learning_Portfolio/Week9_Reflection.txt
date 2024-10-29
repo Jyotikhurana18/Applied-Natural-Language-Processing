@@ -1,0 +1,8 @@
+Learning:
+
+This week's topics included AI-augmented thinking, NLP applications for social benefit, and ethical issues in NLP. Along with these subjects, my group and I worked on Assignment 2, where we created the "Travelmate" app utilizing Google Translator, Streamlit, and Google's Generative API. To develop an application that helps users with travel-related inquiries by providing translations and real-time recommendations, this project gave practical experience connecting APIs. In addition to strengthening my grasp of real-world NLP applications, working on this project made me realize how crucial ethical issues are when managing multilingual data and producing reliable translations.
+
+Challenges faced and how I overcame them:
+
+Among the difficulties was making sure that Travelmate's translations were accurate because machine-generated translations may lack cultural sensitivity or misunderstand context. Understanding how to create the app so that it respects user privacy and doesn't unintentionally gather, or misuse sensitive data presented another difficulty. There were certain technological challenges in balancing the various APIs to offer a seamless, user-friendly experience, particularly in guaranteeing real-time processing without delays.
+To address translation challenges, we tested the app extensively with various language pairs and reviewed the output for any cultural inaccuracies or potential misunderstandings. This iterative testing helped refine the app’s responses and adjust parameters for better accuracy.

@@ -1,0 +1,7 @@
+Learning:
+We were able to concentrate on our Travelmate application and complete its report and presentation throughout this self-directed week. I worked harder to improve the Streamlit user experience and optimize our app's API connectivity. Working with my team also reaffirmed the need of teamwork in a project this size, since each member added special knowledge and abilities that enhanced our strategy and strengthened the application. We were able to communicate our work to others and strengthen our grasp of the ethical and technical components of the project by documenting it for the report.
+
+Challenges faced and how I overcame them:
+
+Structuring the report in a way that fairly represented everyone’s contributions while maintaining a clear, cohesive narrative was challenging. Also, working with a team required balancing different schedules and maintaining consistent communication to ensure everyone was aligned and on track.
+We conducted frequent check-ins to review progress, exchange ideas, and cooperatively address any technical concerns to meet team challenges. Because each member assumed a specific role that played to their abilities, we were able to advance effectively and share knowledge. We assigned writing duties for the report according to each person's contributions to the app, and we then went over each piece as a group to make sure the tone and level of detail were consistent. By using this method, we were able to produce a comprehensive report that effectively conveyed the scope and significance of our project.

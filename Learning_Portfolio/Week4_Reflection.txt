@@ -1,0 +1,10 @@
+Learning:
+
+I learned about important NLP applications in machine learning this week, with an emphasis on text classification, sentiment analysis, and summarization strategies. I gained knowledge of several machine learning techniques for text classification, such as supervised learning methods like Support Vector Machines and Naive Bayes, and how to use them to classify textual data. Furthermore, I studied sentiment analysis, learning how to identify the polarity of text (positive, negative, or neutral) and the subtleties in sentiment scores—a skill that is very helpful when examining social media data or customer reviews.
+
+The two primary approaches of extractive and abstractive summarization were highlighted in the discussion of summarization techniques. I discovered that abstractive summarizing creates a condensed version of the text in new words, more akin to the human summary, whereas extractive summarization chooses important lines from the text. I was given a sneak peek at the upcoming assignments when the Assignment 2 brief was released, which will enable me to put these abilities to use and hone them even more.
+
+Challenges faced and how I overcame them:
+
+Choosing the right model for kinds of text data and comprehending the subtleties of various text categorization techniques presented one difficulty.
+To tackle these challenges, I reviewed additional resources on machine learning algorithms for text classification, including tutorials and documentation on Naive Bayes and SVMs.

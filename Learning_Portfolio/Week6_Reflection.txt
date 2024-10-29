@@ -1,0 +1,8 @@
+Learning:
+
+I was introduced to more complex NLP ideas this week, such as deep learning for NLP applications, vectorization, and embeddings. I gained knowledge of vectorization methods that convert text input into numerical representations that may be utilized in machine learning models, including TF-IDF and word embeddings. We also studied Natural Language Understanding (NLU) and Natural Language Generation (NLG), which examine the interpretation and production of human-like writing using deep learning models such as RNNs and Transformers. These methods form the basis for developing NLP applications such as text summarization systems, chatbots, and translation tools.
+
+Challenges faced and how I overcame them:
+
+It was difficult to learn about NLU and NLG models, such as RNNs, LSTMs, and Transformers, because these deep-learning models are intricate and necessitate a thorough comprehension of neural network architectures.
+To better understand the workings of deep learning models without getting bogged down in excessively technical details, I experimented with pre-trained models and practiced creating basic RNNs.
